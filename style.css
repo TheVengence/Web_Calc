@@ -33,7 +33,7 @@ body{
 .container input[type="text"]{
     width: 100%;
     padding: 8px;
-    font-size: 8px;
+    font-size: 30px;
     outline: none;
     text-align: right;
     height: 50px;
